@@ -1,1 +1,1 @@
-(https://matafeii.github.io/goit-markup-hw-05/)
+https://matafeii.github.io/goit-markup-hw-06/
